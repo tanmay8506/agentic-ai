@@ -1,7 +1,3 @@
-I'll strip the citations and the technical fluff. Here is the clean, high-impact README.md for AlgoGenie.
-
-Copy this into a new file named README.md inside your algogenie folder.
-
 AlgoGenie: Autonomous DSA Problem Solver
 Core Purpose
 AlgoGenie is an agentic AI system designed to solve Data Structures and Algorithms (DSA) problems. Unlike standard LLMs, it autonomously writes, executes, and verifies code within a secure, isolated Docker environment to ensure the logic is bug-free and efficient.
